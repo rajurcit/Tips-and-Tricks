@@ -23,3 +23,7 @@ https://developers.google.com/speed/docs/insights/OptimizeImages
 or 
 
 https://developers.google.com/speed/pagespeed/
+
+speed test
+
+https://gtmetrix.com
