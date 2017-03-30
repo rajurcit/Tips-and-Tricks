@@ -19,3 +19,7 @@ A project to collect feedback (Demo)
 https://tools.pingdom.com/
 or resolve url
 https://developers.google.com/speed/docs/insights/OptimizeImages
+
+or 
+
+https://developers.google.com/speed/pagespeed/
