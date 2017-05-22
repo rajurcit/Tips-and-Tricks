@@ -27,3 +27,6 @@ https://developers.google.com/speed/pagespeed/
 speed test
 
 https://gtmetrix.com
+
+#For Bulk Resize Images url
+https://bulkresizephotos.com/
