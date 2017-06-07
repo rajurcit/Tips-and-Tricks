@@ -29,9 +29,11 @@ speed test
 https://gtmetrix.com
 
 #For Bulk Resize Images url
+
 https://bulkresizephotos.com/
 
 
 Online image optimizer Url
+
 http://optimizilla.com/
 
