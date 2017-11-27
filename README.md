@@ -51,6 +51,10 @@ https://translate.google.com/manager/website/add?security_token=ALkJrhiYThrxXSXp
 
 https://kraken.io/web-interface
 
+for makeicon
+https://makeappicon.com/
+
+
 
 
 
