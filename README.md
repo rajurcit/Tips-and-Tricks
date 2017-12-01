@@ -54,6 +54,9 @@ https://kraken.io/web-interface
 for makeicon
 https://makeappicon.com/
 
+for IONIC UI
+http://ionicframework.com/docs/components
+
 
 
 
