@@ -1,0 +1,12 @@
+0. Full page  view
+1. first time pop get information email, contact etc.
+2. email siute to admin
+3. visitors  report 
+4. News and Event dynamic
+5.download syllabus dynamic()
+6.Toppers list dynamic
+7.fauctly dynamic
+8. gallary dynamic
+9. broucess.
+10.Contact us dynamic
+
